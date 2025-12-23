@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ExMdcco/static/css/main.f14212fa.css",
+    "main.js": "/ExMdcco/static/js/main.3c9358f7.js",
+    "index.html": "/ExMdcco/index.html",
+    "main.f14212fa.css.map": "/ExMdcco/static/css/main.f14212fa.css.map",
+    "main.3c9358f7.js.map": "/ExMdcco/static/js/main.3c9358f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f14212fa.css",
+    "static/js/main.3c9358f7.js"
+  ]
+}
