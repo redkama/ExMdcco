@@ -91,11 +91,8 @@ GitHub Pages 배포 시 아래 두 설정이 이미 반영되어 있습니다.
 
 ## 빌드 확인
 
-로컬에서 `npm run build` 실행 기준 프로덕션 빌드는 통과했습니다.  
-현재 ESLint 경고 2건이 있습니다.
+로컬에서 `npm run build` 실행 기준 프로덕션 빌드 통과했습니다.  
 
-- `src/components/MenuStoreSection.js`: `Navigation` 미사용
-- `src/components/MenuStoreSection.js`: `MAX_VISIBLE` 미사용
 
 ## 참고
 
